@@ -25,20 +25,16 @@ function portfolio() {
               </Col>
               <Col lg={6} className="order-lg-2">
                 <div className="info">
-                  <h2>Phone & accessories store</h2>
+                  <h2>My Portfolio</h2>
                   <p>
-                    I was tasked with creating a mobile app for a local phone &
-                    accessories store. I used HTML, CSS and JavaScript along
-                    with bootstrap to make the website responsive. The app
-                    allows users to browse products, add items to their cart,
-                    and checkout.
+                  I created a personal portfolio website to showcase my projects, skills, and experience as a front-end developer. The website is built using React, React Bootstrap, and other modern web technologies. It features a clean and responsive design, optimized for both desktop and mobile devices.
                   </p>
                   <p className="icons">
                     <FontAwesomeIcon className="icon" icon={faHtml5} />
                     <FontAwesomeIcon className="icon" icon={faCss3} />
                     <FontAwesomeIcon className="icon" icon={faJs} />
                   </p>
-                  <a href="https://manjesusportfolio.netlify.app/" className="view-project">
+                  <a href="https://awosojiemmanuel.vercel.app/" className="view-project">
                     Live Demo
                     <FontAwesomeIcon
                       className="icon"
@@ -61,9 +57,9 @@ function portfolio() {
               </Col>
               <Col lg={6} className="order-lg-1">
                 <div className="info">
-                  <h2>Google Clone</h2>
+                  <h2>E-commerce website</h2>
                   <p>
-                  The Google Clone project is a web application that replicates the search engine interface of Google. Built using HTML, CSS, and JavaScript, with API and Bootstrap for styling, the project aims to provide a familiar search experience.
+                  I developed a fully responsive e-commerce website for a local fashion store, featuring a wide range of clothing and accessories. The website was built using HTML, CSS, JavaScript, and Bootstrap, offering a smooth and engaging shopping experience. Users can explore various fashion items, add them to their cart, and seamlessly proceed to checkout.
                   </p>
                   <p className="icons">
                     <FontAwesomeIcon className="icon" icon={faHtml5} />
@@ -95,9 +91,9 @@ function portfolio() {
               </Col>
               <Col lg={6} className="order-lg-2">
                 <div className="info">
-                  <h2>Quiz App</h2>
+                  <h2>Car Rental</h2>
                   <p>
-                  The Quiz App is an interactive web application designed to provide users with a fun and engaging quiz experience. Built using HTML, CSS, and JavaScript, the app allows users to test their knowledge on various topics..
+                  I created a responsive car rental web application that allows users to browse, book, and manage car rentals with ease. The app is built using React, Tailwind CSS, and other modern web technologies, with a special feature that lets users switch between dark and light mode themes for enhanced usability.
                   </p>
                   <p className="icons">
                     <FontAwesomeIcon className="icon" icon={faHtml5} />
@@ -127,10 +123,9 @@ function portfolio() {
               </Col>
               <Col lg={6} className="order-lg-1">
                 <div className="info">
-                  <h2>Explore Space</h2>
+                  <h2>Faithhill Investment and Logistics Solution</h2>
                   <p>
-                    I was tasked with creating an exploration of the space starting from moon, mars, titan, etc. I used HTML, CSS and JavaScript along with bootstrap to make the website responsive. The app
-                    allows users to interact and know more information about the space.
+                  I developed a professional website for Faith Hill Investment & Logistics, a company specializing in comprehensive investment and logistics solutions. The website was built using HTML, CSS, JavaScript, and Bootstrap to create a clean and user-friendly interface that effectively communicates the company's services.
                   </p>
                   <p className="icons">
                     <FontAwesomeIcon className="icon" icon={faHtml5} />
