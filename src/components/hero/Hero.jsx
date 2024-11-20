@@ -60,7 +60,7 @@ function Hero() {
           </div>
           <div className="info-button">
             <a
-              href="https://drive.google.com/file/d/1wdtuRbri_h53Yc-5dSTHjgPyVltFn94F/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1mfkZ9D1WKmIgcfC0HZPtCrjmme4URzRH/view?usp=drive_link"
               className="cv"
             >
               Download CV
