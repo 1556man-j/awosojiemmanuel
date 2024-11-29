@@ -100,7 +100,7 @@ function portfolio() {
                     <FontAwesomeIcon className="icon" icon={faCss3} />
                     <FontAwesomeIcon className="icon" icon={faJs} />
                   </p>
-                  <a href="https://clothing-man-j.vercel.app/" className="view-project">
+                  <a href="https://car-rental-by-manj.netlify.app/" className="view-project">
                     Live Demo
                     <FontAwesomeIcon
                       className="icon"
