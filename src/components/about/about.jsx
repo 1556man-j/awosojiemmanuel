@@ -15,7 +15,7 @@ function about() {
                 <Row className="both">
                     <Col lg={4} className="left">
                         <div className="img">
-                            <img src="/me.png" alt="me"/>
+                            <img src="/me.JPG" alt="me"/>
                         </div>
                     </Col>
                     <Col lg={8} className="right">

@@ -89,7 +89,7 @@ function Hero() {
             </li>
           </div>
           <div className="my-pic">
-            <img src="/user8.png" alt="me" />
+            <img src="/user8.JPG" alt="me" />
           </div>
           <div className="scroll up">
             <li>
